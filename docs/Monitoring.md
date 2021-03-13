@@ -2,7 +2,6 @@
 [TOC](../README.MD#TOC)
 
 ## Cloudwatch
-
 Cloudwatch is a large service which provides logging, monitoring, alerting, and events. The events part as been rebranded into a new service called EventBridge.
 
 ## Logging
