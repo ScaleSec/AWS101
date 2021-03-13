@@ -1,5 +1,5 @@
 # IAM Overview
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 ## User
 A user is an IAM identity which can be used to log in and generate access keys. IAM users have passwords and MFA.

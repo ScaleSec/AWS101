@@ -1,5 +1,5 @@
 # CLI
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 ## Install
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html

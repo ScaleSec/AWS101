@@ -1,5 +1,5 @@
 # Useful tools
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 ## Pacu
 https://github.com/RhinoSecurityLabs/pacu

@@ -1,5 +1,5 @@
 # Best Practices
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 ## Shared Responsibility
 AWS is responsible for most of the hardware and physical security. They are not responsible for anything else except for with some managed services.

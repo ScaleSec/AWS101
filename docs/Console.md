@@ -1,5 +1,5 @@
 # Console Overview
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 https://console.aws.amazon.com
 

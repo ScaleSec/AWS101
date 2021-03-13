@@ -1,5 +1,5 @@
 ## Metadata service  
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 The metadata service is an http endpoint available to all EC2 based services to get instance info and credentials. There are two versions:
 

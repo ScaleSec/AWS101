@@ -1,5 +1,5 @@
 # Monitoring
-[TOC](../README.MD#TOC)
+[TOC](https://github.com/ScaleSec/AWS101/blob/main/README.md#TOC)
 
 ## Cloudwatch
 Cloudwatch is a large service which provides logging, monitoring, alerting, and events. The events part as been rebranded into a new service called EventBridge.
